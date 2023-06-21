@@ -4,7 +4,9 @@ This algorithm is designed to analyze a patiant's physical and clinical health i
 
 ## Data Overview
 
-The data is accessed via an open source repository on [kaggle.com](https://www.kaggle.com/datasets/ritwikb3/heart-disease-cleveland). The database contains 13 attributes and a target variable. It has 8 nominal values and 5 numeric values. The detailed description of all these features are as follows:
+The data is accessed via an open source repository on [kaggle.com](https://www.kaggle.com/datasets/ritwikb3/heart-disease-cleveland). The database contains 13 attributes and a target variable. It has 8 nominal values and 5 numeric values. The detailed description of all these features are as 
+
+follows:
 
 Age: Patients Age in years (Numeric)
 
