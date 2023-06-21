@@ -4,12 +4,10 @@ This algorithm is designed to analyze a patiant's physical and clinical health i
 
 ## Data Overview
 
-The data is accessed via an open source repository on [kaggle.com](https://www.kaggle.com/datasets/ritwikb3/heart-disease-cleveland).
+The data is accessed via an open source repository on [kaggle.com](https://www.kaggle.com/datasets/ritwikb3/heart-disease-cleveland). The database contains 13 attributes and a target variable. It has 8 nominal values and 5 numeric values. The detailed description of all these features are as follows:
 
-The database contains 13 attributes and a target variable. It has 8 nominal values and 5 numeric values. The detailed description of all these features are as follows:
-
-    Age: Patients Age in years (Numeric)
-    Sex: Gender (Male : 1; Female : 0) (Nominal)
+Age: Patients Age in years (Numeric)
+Sex: Gender (Male : 1; Female : 0) (Nominal)
     cp: Type of chest pain experienced by patient. This term categorized into 4 category.
     0 typical angina, 1 atypical angina, 2 non- anginal pain, 3 asymptomatic (Nominal)
     trestbps: patient's level of blood pressure at resting mode in mm/HG (Numerical)
