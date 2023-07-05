@@ -5,9 +5,9 @@ This repository hosts a diverse collection of machine learning and data analysis
 ## Table of Contents
 
 - [Time Series Analysis](./eeg_alcoholism_predisposition)
-- [Image Classification using Convolutional Neural Networks](./TBD)
+- [Image Classification Using Convolutional Neural Networks](./TBD)
 <!--- [Crystalline Structure Recognition with Deep Learning](./project3)-->
-- [Classification using different ML and DL algorithms](./heart_disease_diagnosis)
+- [Classification Using Different ML and DL Algorithms](./heart_disease_diagnosis)
 
 ## Usage
 Feel free to explore each project's folder for more details, including code implementation, dataset descriptions, and any additional documentation provided. You can find the project folders specified by the name of the project.
